@@ -12,7 +12,7 @@ on:
 
 jobs:
     runs-on: windows-2022
-    needs: bakeHTML
+
 
     strategy:
       matrix:
