@@ -178,7 +178,4 @@ jobs:
         name: "AIS-catcher SDRPLAY ${{matrix.platform}}"
         path: |
           output
-
--catcher SDRPLAY ${{matrix.platform}}.zip"
-
- 
+          
